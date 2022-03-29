@@ -1,0 +1,66 @@
+p{
+            font-size: 30px;
+            color: white;
+            /*background-color: lawngreen;*/
+}
+
+body{
+    background-color: rgb(255, 6, 6);
+}
+
+.david-name{
+    font-size: 3rem;
+    color: white;
+   
+}
+
+.david-email{
+    font: 30px;
+    color: white;
+}
+
+.personal-data{
+    font-size: xx-large;
+    color: rgb(124, 250, 6);
+}
+
+.date-of-birth{
+    font: 100px;
+}
+
+
+.personal-skills{
+    font-size: xx-large;
+    color: rgb(73, 248, 3);
+
+}
+
+.containaer{
+    font-size: 30px;
+    color: white;
+}
+
+.education-qualification{
+    font: 100px;
+    color: rgb(73, 248, 3);
+}
+
+.work-experience{
+    font: 100;
+    color: rgb(73, 248, 3);
+}
+
+.computer-knowledge{
+    font: 100;
+    color: rgb(73, 248, 3);
+}
+
+.hobbies{
+    font: 100;
+    color: rgb(73, 248, 3);
+}
+
+.referees{
+    font: 100;
+    color: rgb(73, 248, 3);
+}
